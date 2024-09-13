@@ -29,8 +29,5 @@ Open Main.java in your preferred IDE and run the file directly.
 ![image](https://github.com/user-attachments/assets/6f4b2693-a2ea-4726-8ece-04b465ca9bba)
 ![image](https://github.com/user-attachments/assets/0601338d-64eb-46b5-a27c-e7c4531839f4)
 
-## Author Information
-- @StorytellerIgneel
-- @AmIWhatIAm
-- @J1nnH
-- @Sodiumchloridy
+## Contributors
+[![](https://contrib.rocks/image?repo=Sodiumchloridy/y1s3-java-assignment)](https://github.com/Sodiumchloridy/y1s3-java-assignment/graphs/contributors)
